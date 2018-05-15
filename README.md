@@ -3,7 +3,7 @@
 [Your first blog](https://zhengxiaoya2017.github.io/myblog)
 
 You can use the [editor on GitHub](https://github.com/zhengxiaoya2017/myblog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-## 本人博客园URL
+## Welcome to my cnblogs Pages
 
 [cnblogs](http://www.cnblogs.com/javazxy)
 
