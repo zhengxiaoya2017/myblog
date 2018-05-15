@@ -5,7 +5,7 @@
 You can use the [editor on GitHub](https://github.com/zhengxiaoya2017/myblog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### This is my first detail page
-[detail](https://github.com/zhengxiaoya2017/myblog/blob/master/_posts/2018/05/10/hello.html)
+[detail](https://zhengxiaoya2017.github.io/myblog/2018/05/10/hello.html)
 ## Welcome to my cnblogs Pages
 
 [cnblogs](http://www.cnblogs.com/javazxy)
